@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3019BDD5-FE5A-439A-854F-03155CC7BE15}|WebApplication-ParcialCorregido.csproj|c:\\users\\bruno\\source\\repos\\webapplication-parcialcorregido\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3019BDD5-FE5A-439A-854F-03155CC7BE15}|WebApplication-ParcialCorregido.csproj|solutionrelative:views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019BDD5-FE5A-439A-854F-03155CC7BE15}|WebApplication-ParcialCorregido.csproj|C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3019BDD5-FE5A-439A-854F-03155CC7BE15}|WebApplication-ParcialCorregido.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3019BDD5-FE5A-439A-854F-03155CC7BE15}|WebApplication-ParcialCorregido.csproj|C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3019BDD5-FE5A-439A-854F-03155CC7BE15}|WebApplication-ParcialCorregido.csproj|solutionrelative:models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T04:41:27.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\Models\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "Models\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\Models\\Model1.Designer.cs",
+              "RelativeToolTip": "Models\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:41:04.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\Views\\Home\\Principal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Principal.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\WebApplication-ParcialCorregido\\Views\\Home\\Principal.cshtml",
+              "RelativeToolTip": "Views\\Home\\Principal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:41:35.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

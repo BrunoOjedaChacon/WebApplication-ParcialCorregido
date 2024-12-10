@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #f9f9f9; /* Color de fondo general */
+    color: #333; /* Color del texto */
+}
+
+h1 {
+    color: #3498db; /* Azul brillante */
+}
+
+.business-description {
+    background-color: #ffffff; /* Fondo blanco */
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.btn-primary {
+    background-color: #2980b9; /* Azul personalizado */
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #1f6391; /* Color al pasar el mouse */
+    }

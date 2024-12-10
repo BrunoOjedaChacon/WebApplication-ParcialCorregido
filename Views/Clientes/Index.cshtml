@@ -1,0 +1,58 @@
+﻿@model IEnumerable<WebApplication_ParcialCorregido.Models.Clientes>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { @class = "btn btn-sucess" })
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            <img src="~/Content/Imagenes/codigo.jpg" alt="Código Cliente" width="30" height="30" />
+            @Html.DisplayNameFor(model => model.ClienteId)
+        </th>
+        <th>
+            <img src="~/Content/Imagenes/nombre.jpg" alt="Nombre Cliente" width="30" height="30" />
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            <img src="~/Content/Imagenes/email.jpg" alt="Email Cliente" width="30" height="30" />
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            <img src="~/Content/Imagenes/direccion.jpg" alt="Dirección Cliente" width="30" height="30" />
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClienteId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ClienteId }, new { @class = "btn btn-warning" })
+                @Html.ActionLink("Details", "Details", new { id = item.ClienteId }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.ClienteId }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+
